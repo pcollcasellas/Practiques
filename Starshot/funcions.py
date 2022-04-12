@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 from pydicom import dcmread
 from PIL import Image
 
-#comentari
 
 def WL(left, up, angle):
     '''
